@@ -44,17 +44,6 @@
 - 💬 **SpiderChat** — [spiderwebarg-chat.vercel.app](https://spiderwebarg-chat.vercel.app/)
 - 👥 **SpiderWeb Community** — [spiderwebarg-community.vercel.app](https://spiderwebarg-community.vercel.app/)
 
-<p align="left">
-  <a href="https://github.com/GaboDev24/pasantias-spiderwebarg">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GaboDev24&repo=pasantias-spiderwebarg&theme=radical" />
-  </a>
-  <a href="https://github.com/GaboDev24/PortafolioGaboDev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GaboDev24&repo=PortafolioGaboDev&theme=radical" />
-  </a>
-  <a href="https://github.com/GaboDev24/SpiderChat-SWA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GaboDev24&repo=SpiderChat-SWA&theme=radical" />
-  </a>
-</p>
 
 ---
 
